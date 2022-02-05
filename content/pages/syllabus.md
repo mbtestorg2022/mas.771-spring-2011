@@ -23,11 +23,48 @@ All students will be expected to carry out a project in a team or solo.
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Classroom participation | 25% |
-| Ten assignments (reading/response) | 30% |
-| Project and presentation | 45% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Classroom participation
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Ten assignments (reading/response)
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Project and presentation
+{{< tdclose >}}
+{{< tdopen >}}
+45%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Homework handed in late will be deducted points as follows: 1 point the first time you are late; 2 points the second time; N points the Nth time.
 
@@ -40,18 +77,219 @@ The final project presentations are especially important for everyone to attend;
 Calendar
 --------
 
-| CLASS | TOPICS | GUEST SPEAKER | KEY DATES FOR FINAL PROJECT |
-| --- | --- | --- | --- |
-| 1 | Introduction to autism and autism technology - Overview of autism spectrum disorders. Discussion of opportunities we see with our research/technology, e.g., affective computing, social robotics, relational machines, commonsense computing, to offer communication and learning opportunities to individuals with autism spectrum disorder, to their families and to teachers/clinicians/researchers. What can we learn from individuals, many of whom prefer to be called "autistic" and from strategies they have devised to adapt to the challenges they face with autism? | &nbsp; |
-| 2 | Autism Technologies | Gregory Abowd, Rob Morris and Ehsan Hoque | &nbsp; |
-| 3 | Understanding & Treating Problem Behavior in ASD | Ted Carr | &nbsp; |
-| 4 | Biomedical & Environmental Factors | Martha Herbert | &nbsp; |
-| 5 | Personal Perspective & Autistic Intelligence | Stephen Shore | Project proposal (draft) due |
-| 6 | Project Idea Discussions | &nbsp; | Project proposal (final) due |
-| 7 | Personal Perspective, and Stress, Arousal, Anxiety & Physiological Recording | Nomi Kaim, and Matthew Goodwin | &nbsp; |
-| 8 | Sensory Issues | Jane Koomar and Elliot Hedman | &nbsp; |
-| 9 | Project Progress Presentations | &nbsp; | Project progress presentations |
-| 10 | Alternative & Augmentative Communication Technologies, and Repetitive Behavior | Amanda Baggs, and Matthew Goodwin | &nbsp; |
-| 11 | Early Diagnosis | Charles Nelson | &nbsp; |
-| 12 | Last day of class - Final Project Presentations | &nbsp; | Presentations on final projects |
-| 13 | Project feedback/wrap-up/reflect and discuss, ASD controversies | &nbsp; | Project write-up/webpages due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+CLASS
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+GUEST SPEAKER
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES FOR FINAL PROJECT
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to autism and autism technology - Overview of autism spectrum disorders. Discussion of opportunities we see with our research/technology, e.g., affective computing, social robotics, relational machines, commonsense computing, to offer communication and learning opportunities to individuals with autism spectrum disorder, to their families and to teachers/clinicians/researchers. What can we learn from individuals, many of whom prefer to be called "autistic" and from strategies they have devised to adapt to the challenges they face with autism?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Autism Technologies
+{{< tdclose >}}
+{{< tdopen >}}
+Gregory Abowd, Rob Morris and Ehsan Hoque
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Understanding & Treating Problem Behavior in ASD
+{{< tdclose >}}
+{{< tdopen >}}
+Ted Carr
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Biomedical & Environmental Factors
+{{< tdclose >}}
+{{< tdopen >}}
+Martha Herbert
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Personal Perspective & Autistic Intelligence
+{{< tdclose >}}
+{{< tdopen >}}
+Stephen Shore
+{{< tdclose >}}
+{{< tdopen >}}
+Project proposal (draft) due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Project Idea Discussions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Project proposal (final) due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Personal Perspective, and Stress, Arousal, Anxiety & Physiological Recording
+{{< tdclose >}}
+{{< tdopen >}}
+Nomi Kaim, and Matthew Goodwin
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Sensory Issues
+{{< tdclose >}}
+{{< tdopen >}}
+Jane Koomar and Elliot Hedman
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Project Progress Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Project progress presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Alternative & Augmentative Communication Technologies, and Repetitive Behavior
+{{< tdclose >}}
+{{< tdopen >}}
+Amanda Baggs, and Matthew Goodwin
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Early Diagnosis
+{{< tdclose >}}
+{{< tdopen >}}
+Charles Nelson
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Last day of class - Final Project Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Presentations on final projects
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Project feedback/wrap-up/reflect and discuss, ASD controversies
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Project write-up/webpages due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
