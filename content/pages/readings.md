@@ -63,7 +63,7 @@ Carr, Edward, et al. "[Menstrual Discomfort as a Biological Setting Event for Se
 
 Carr, Edward, and J. S. Owen-DeSchryver. "[Physical Illness, Pain, and Problem Behavior in Minimally Verbal People with Developmental Disabilities](http://www.ncbi.nlm.nih.gov/pubmed/16897378)." _Journal of Autism and Developmental Disorders_ 37, no. 3 (2007): 413-424.
 
-Carr, Edward, and Martha Herbert. "Integrating Behavioral and Biomedical Approaches: A Marriage Made in Heaven." _Autism Advocate_ 1 (2008): 45-52. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.1 MB](http://docplayer.net/60552131-Integrating-behavioral-and-biomedical-approaches-a-marriage-made-in-heaven.html))
+Carr, Edward, and Martha Herbert. "Integrating Behavioral and Biomedical Approaches: A Marriage Made in Heaven." _Autism Advocate_ 1 (2008): 45-52. ([PDF - 3.1 MB](http://docplayer.net/60552131-Integrating-behavioral-and-biomedical-approaches-a-marriage-made-in-heaven.html))
 
 ### Questions
 
@@ -82,13 +82,13 @@ Week 3: Understanding & Treating Problem Behavior in ASD
 {{< tdopen >}}
 
 
-Kanner, L. "Autistic Disturbances of Affective Contact." _Nervous Child_ 2 (1943): 217-250. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://garfield.library.upenn.edu/classics1979/A1979HZ31800001.pdf))
+Kanner, L. "Autistic Disturbances of Affective Contact." _Nervous Child_ 2 (1943): 217-250. ([PDF](http://garfield.library.upenn.edu/classics1979/A1979HZ31800001.pdf))
 
 Herbert, Martha. "Autism: A Brain Disorder, or a Disorder that Affects the Brain?" _Clinical Neuropsychiatry_ 2, no. 6 (2005): 354-379.
 
-———. "Time to Get a Grip." _Autism Advocate_ 5 (2006): 18-25. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://mindd.org/s/uploads/pdf/Herbert%20Time_to_get_a_grip-aut-envhealth%20ASA06.pdf))
+———. "Time to Get a Grip." _Autism Advocate_ 5 (2006): 18-25. ([PDF](http://mindd.org/s/uploads/pdf/Herbert%20Time_to_get_a_grip-aut-envhealth%20ASA06.pdf))
 
-———. "Treatment-Guided Research: Helping People Now With Humility, Respect, and Boldness." _Autism Advocate_ 1 (2008): 8-14. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.marthaherbert.org/library/Herbert_TGRI_April08_ASA-Advocate.pdf))
+———. "Treatment-Guided Research: Helping People Now With Humility, Respect, and Boldness." _Autism Advocate_ 1 (2008): 8-14. ([PDF](http://www.marthaherbert.org/library/Herbert_TGRI_April08_ASA-Advocate.pdf))
 
 ### Questions
 
@@ -155,9 +155,9 @@ Baron, M. Grace, June Groden, Gerald Groden, and Lewis P. Lipsitt, eds. Selectio
 
 Dawson, Geraldine. "A Psychobiological Perspective on the Early Socio-Emotional Development of Children with Autism." _Rochester Symposium on Developmental Psychopathology_ 3 (1991): 207-234.
 
-Goodwin, Matthew S., et al. "Cardiovascular Arousal in Individuals with Autism." _Focus on Autism and Other Developmental Disabilities_ 21, no. 2 (2006): 100-123. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.3 MB](https://www.researchgate.net/publication/245924107_Cardiovascular_Arousal_in_Individuals_With_Autism))
+Goodwin, Matthew S., et al. "Cardiovascular Arousal in Individuals with Autism." _Focus on Autism and Other Developmental Disabilities_ 21, no. 2 (2006): 100-123. ([PDF - 1.3 MB](https://www.researchgate.net/publication/245924107_Cardiovascular_Arousal_in_Individuals_With_Autism))
 
-Picard, Rosalind W. "Future Affective Technology for Autism and Emotion Communication." In _The Philosophical Transactions of the Royal Society B_, (2009). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://affect.media.mit.edu/pdfs/09.Picard-PhilTranRoyalSocB.pdf))
+Picard, Rosalind W. "Future Affective Technology for Autism and Emotion Communication." In _The Philosophical Transactions of the Royal Society B_, (2009). ([PDF](http://affect.media.mit.edu/pdfs/09.Picard-PhilTranRoyalSocB.pdf))
 
 ### Questions
 
@@ -177,7 +177,7 @@ Week 6: Project Idea Discussions
 {{< tdopen >}}
 
 
-Tomchek, Scott D., and Winnie Dunn. "Sensory Processing in Children With and Without Autism: A Comparative Study Using the Short Sensory Profile." _The American Journal of Occupational Therapy_ 61, no. 2 (2007): 190-200. ([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF](https://www.researchgate.net/publication/6391395_Sensory_Processing_in_Children_With_and_Without_Autism_A_Comparative_Study_Using_the_Short_Sensory_Profile))
+Tomchek, Scott D., and Winnie Dunn. "Sensory Processing in Children With and Without Autism: A Comparative Study Using the Short Sensory Profile." _The American Journal of Occupational Therapy_ 61, no. 2 (2007): 190-200. ([PDF](https://www.researchgate.net/publication/6391395_Sensory_Processing_in_Children_With_and_Without_Autism_A_Comparative_Study_Using_the_Short_Sensory_Profile))
 
 Russo, Natalie, et al. "[Multisensory Processing in Children With Autism: High-Density Electrical Mapping of Auditory-Somatosensory Integration](http://www.ncbi.nlm.nih.gov/pubmed/20730775)." _Autism Research_ 3, no. 5 (2010): 253-267.
 
